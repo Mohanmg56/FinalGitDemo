@@ -17,6 +17,9 @@ public class AdjacentIndex {
 			}
 		}
 		System.out.print(diff);
+		System.out.print(diff);
+		System.out.print(diff);
+		System.out.print(diff);
 	}
 	
 }
